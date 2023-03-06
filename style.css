@@ -1,17 +1,25 @@
+.mainheader, .subheader, .maintxt, .links {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #24273a;
+}
 .mainheader {
-    color: black;
+    color: #b8c0e0;
+    background-color: 
 }
 
 .subheader {
-    color: black;
+    color: #a5adcb;
 }
 
 .maintxt {
-    color: black;
+    color: #cad3f5;
 }
 
 .links {
-    color: aqua;
+    color: #f5bde6;
 }
 
 .pics {
